@@ -1,0 +1,13 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "this is my repo where I post what I learn from datastructures",
+  "main": "src/index.ts",
+  "repository": "https://github.com/chgara/datastructures.git",
+  "author": "Chema <chemasanchezgarabito@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
